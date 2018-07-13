@@ -23,8 +23,7 @@ Firstly, download the test case files from the test folder.
 Secondly, open an existing Android Studio project and choose the Simple-Amazon-Dynamodb directory. In the built-in terminal of Android Studio, navigate to the location of where you download your test case files.
 
 Thirdly, type the following command in your terminal (For example: if the system is macOS):
-- su root 
-- set_redir.py 10000
+- python set_redir.py 10000
 - ./simpledynamo-grading.osx 
 
 And finally, the test case will run and verify the behavior of the system.
