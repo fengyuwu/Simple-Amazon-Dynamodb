@@ -13,5 +13,4 @@ This project implemented my personal website. My personal website can be view us
 
 Personal website: https://fengyuwu.github.io./
 
-Linkedin profile: https://www.linkedin.com/in/fengyuwu/
 
